@@ -1,0 +1,3 @@
+make ted
+
+./ted -e /home/geraldo/ED/trabalho/geraldoasn/src/t1 -o /home/geraldo/ED/trabalho/geraldoasn/o -f 01-02-tiro-varios.geo -q 09-roda6.qry
